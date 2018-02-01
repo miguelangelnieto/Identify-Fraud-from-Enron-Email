@@ -1,0 +1,10 @@
+(lp0
+S'poi'
+p1
+aS'expenses'
+p2
+aS'bonus'
+p3
+aS'email_exchange_with_poi'
+p4
+a.
